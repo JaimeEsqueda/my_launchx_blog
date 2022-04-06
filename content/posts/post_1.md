@@ -8,4 +8,61 @@ Hello that much pleasure I am Jaime Esqueda and today I am going to tell you abo
 So far it has been my experience, I am very excited in this part of back end since I consider myself good at creating macros in excel with connections, queries and managing databases, part of data mining and object-oriented programming has been my forte.
 I am super attentive and to serve you, I would love to make friends.
 
-Saludos
+
+( html5) HTML
+
+What is FRONTEND programming for?
+What is FRONTEND programming?
+Applied technologies
+Web Programming SETUP
+Structure of web pages
+Code structure and cleanup
+HTML file structure
+Tag syntax
+Titles.
+Paragraphs.
+Imagery.
+Links.
+Stalemate.
+Lists.
+Tickets.
+Button.
+Forms.
+Routes.
+Accommodation.
+Navigation bar.
+Footer.
+Rows and columns.
+Label properties.
+
+
+( css3) CSS
+
+Selectors
+Colors
+Funds.
+Texts and sources
+Links and buttons
+Accommodation / Box model
+Responsive
+Media Queries
+Grid
+Flexbox
+CSS Libraries
+
+
+( javascript ) JavaScript
+
+Variables, types and operators
+Programming structure
+Functions
+Data structures
+Objects -Exceptions
+Asynchronous Programming
+JS in the browser
+DOM (Document Object Model)
+Events
+API consumption
+JS libraries and packages.
+
+Best regards!
