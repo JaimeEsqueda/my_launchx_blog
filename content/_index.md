@@ -12,7 +12,7 @@ Mis expectativas para este proyecto son:
 
 - Aprender Git y GitHub.
 - Desarrollar nuevas habilidades y destrezas con diferentes herra,ientas
-- -Aplicar mis conocimientos de Front End.
+- Aplicar mis conocimientos de Front End.
 - Aprender a desarrollar backend de la forma mas amplia posible.
 - Compartir n.n
 
