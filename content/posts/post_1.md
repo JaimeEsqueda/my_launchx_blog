@@ -1,6 +1,6 @@
 ---
 title: "Mi experiencia en LaunchX hasta el día de hoy"
-date: 2022-03-01
+date: 2022-04-06
 description: 'Descripción de tu blog post'
 ---
 
