@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://jaimeesqueda.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje Jaime Esqueda Velasco"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
@@ -11,9 +11,9 @@ pygmentsUseClasses = true
 paginate = 3
 
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "01100"
   # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@visual_partner"
+  twitter_handle = "@JaimeEsqueda"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
