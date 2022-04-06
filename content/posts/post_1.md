@@ -13,61 +13,61 @@ I am super attentive and to serve you, I would love to make friends.
 
   - (<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>) **HTML**
 
--What is FRONTEND programming for?
--What is FRONTEND programming?
--Applied technologies
--Web Programming SETUP
--Structure of web pages
--Code structure and cleanup
--HTML file structure
--Tag syntax
--Titles.
--Paragraphs.
--Imagery.
--Links.
--Stalemate.
--Lists.
--Tickets.
--Button.
--Forms.
--Routes.
--Accommodation.
--Navigation bar.
--Footer.
--Rows and columns.
--Label properties.
+- What is FRONTEND programming for?
+- What is FRONTEND programming?
+- Applied technologies
+- Web Programming SETUP
+- Structure of web pages
+- Code structure and cleanup
+- HTML file structure
+- Tag syntax
+- Titles.
+- Paragraphs.
+- Imagery.
+- Links.
+- Stalemate.
+- Lists.
+- Tickets.
+- Button.
+- Forms.
+- Routes.
+- Accommodation.
+- Navigation bar.
+- Footer.
+- Rows and columns.
+- Label properties.
 
 
 
   - (<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>) **CSS**
 
--Selectors
--Colors
--Funds.
--Texts and sources
--Links and buttons
--Accommodation / Box model
--Responsive
--Media Queries
--Grid
--Flexbox
--CSS Libraries
+- Selectors
+- Colors
+- Funds.
+- Texts and sources
+- Links and buttons
+- Accommodation / Box model
+- Responsive
+- Media Queries
+- Grid
+- Flexbox
+- CSS Libraries 
 
 
 
   - (<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>) **JavaScript** 
 
--Variables, types and operators
--Programming structure
--Functions
--Data structures
--Objects -Exceptions
--Asynchronous Programming
--JS in the browser
--DOM (Document Object Model)
--Events
--API consumption
--JS libraries and packages.
+- Variables, types and operators
+- Programming structure
+- Functions
+- Data structures
+- Objects -Exceptions
+- Asynchronous Programming
+- JS in the browser
+- DOM (Document Object Model)
+- Events
+- API consumption
+- JS libraries and packages. 
 
 
 
