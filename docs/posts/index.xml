@@ -8,22 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jaimeesqueda.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>La cultura de un desarrollador de software</title>
-      <link>https://jaimeesqueda.github.io/my_launchx_blog/posts/intro/</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://jaimeesqueda.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Para mi persona, la cultura de un desarrollador de software consta de los siguientes valores:
- Respeto Responsabilidad Honestidad Buena comunicación Actitud proactiva Confianza  Asi como filosofia de vida una mejora continua en su administradicion y gestion de procesos, mejorando asi su disciplina para un mejor resultado en cada proyecto.</description>
-    </item>
-    
-    <item>
       <title>Mi experiencia en LaunchX hasta el día de hoy</title>
       <link>https://jaimeesqueda.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://jaimeesqueda.github.io/my_launchx_blog/posts/post_1/</guid>
       <description>Hola que tal mucho gusto soy Jaime Esqueda y hoy voy a contarles sobre mi experiencia en una gran aventura que tuve la oportunidad de pertenecer. Se trata de un curso de developer full stack impartido por los expertos de Microsoft. Así es, al principio me parecia un sueño, ya que justamente yo estaba iniciando mi curva de aprendizaje a este ambito de manera autodidacta y sin mucho éxito. Al empezar la semana de inducción, me parecio bastante interesante como Python se parece mucho a otros Sistemas manejadores de bases de datos que habia trabajado anteriormente.</description>
+    </item>
+    
+    <item>
+      <title>The culture of a software developer</title>
+      <link>https://jaimeesqueda.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaimeesqueda.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Hello Everobody there, For me, the culture of a software developer consists of the following values::
+ Respect Responsibility Honesty Good communication Proactive attitude Trust  As well as philosophy of life a continuous improvement in its administration and process management, thus improving its discipline for a better result in each project.</description>
     </item>
     
   </channel>
