@@ -9,9 +9,7 @@ So far it has been my experience, I am very excited in this part of back end sin
 I am super attentive and to serve you, I would love to make friends.
 
 
-
-
-  - (<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>) **HTML**
+  - <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a> **HTML**
 - What is FRONTEND programming for?
 - What is FRONTEND programming?
 - Applied technologies
@@ -20,25 +18,25 @@ I am super attentive and to serve you, I would love to make friends.
 - Code structure and cleanup
 - HTML file structure
 - Tag syntax
-- Titles.
-- Paragraphs.
-- Imagery.
-- Links.
-- Stalemate.
-- Lists.
-- Tickets.
-- Button.
-- Forms.
-- Routes.
-- Accommodation.
-- Navigation bar.
-- Footer.
-- Rows and columns.
-- Label properties.
+- Titles
+- Paragraphs
+- Imagery
+- Links
+- Stalemate
+- Lists
+- Tickets
+- Button
+- Forms
+- Routes
+- Accommodation
+- Navigation bar
+- Footer
+- Rows and columns
+- Label properties
 
 
 
-  - (<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>) **CSS**
+  - <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a> **CSS**
 * Selectors
 * Colors
 * Funds.
@@ -53,7 +51,7 @@ I am super attentive and to serve you, I would love to make friends.
 
 
 
-  - (<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>) **JavaScript** 
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> **JavaScript** 
 - Variables, types and operators
 - Programming structure
 - Functions
@@ -64,7 +62,7 @@ I am super attentive and to serve you, I would love to make friends.
 - DOM (Document Object Model)
 - Events
 - API consumption
-- JS libraries and packages. 
+- JS libraries and packages.
 
 
 
