@@ -10,7 +10,7 @@ I invite you to learn about my learnings and read my experiences.
 My expectations for this project are:
 
 - Learn Git and GitHub.
-- Develop new skills and abilities with different tools, ientas
+- Develop new skills and abilities with different tools
 - Apply my knowledge of Front End.
 - Learn to develop backend in the broadest possible way.
 - Share n.n
