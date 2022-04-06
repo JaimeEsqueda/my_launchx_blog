@@ -1,19 +1,18 @@
 ---
-title: Launch X Bitácora de viaje
+title: Launch X Travel log
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
-Hola ✌️  soy el explorer Jaime Esqueda y este es mi blog personal donde compartiré mis aventuras de Launch X.
+Hi ✌️ I'm the explorer Jaime Esqueda and this is my personal blog where I will share my Launch X adventures.
 
-Te invito a conocer mis aprendizajes y leer mis experiencias.
+I invite you to learn about my learnings and read my experiences.
 
+My expectations for this project are:
 
-Mis expectativas para este proyecto son:
-
-- Aprender Git y GitHub.
-- Desarrollar nuevas habilidades y destrezas con diferentes herra,ientas
-- Aplicar mis conocimientos de Front End.
-- Aprender a desarrollar backend de la forma mas amplia posible.
-- Compartir n.n
+- Learn Git and GitHub.
+- Develop new skills and abilities with different tools, ientas
+- Apply my knowledge of Front End.
+- Learn to develop backend in the broadest possible way.
+- Share n.n
 
 🚀
