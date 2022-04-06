@@ -1,16 +1,16 @@
 ---
-title: "La cultura de un desarrollador de software"
+title: "The culture of a software developer"
 date: 2022-04-06
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+description: 'This is my first post of the journey in the Backend Mission with Node JS of Launch X.'
 ---
 
-Para mi persona, la cultura de un desarrollador de software consta de los siguientes valores:
+Hello Everobody there, For me, the culture of a software developer consists of the following values::
 
-- Respeto
-- Responsabilidad
-- Honestidad
-- Buena comunicación 
-- Actitud proactiva
-- Confianza
+- Respect
+- Responsibility
+- Honesty
+- Good communication 
+- Proactive attitude
+- Trust
 
-Asi como filosofia de vida una mejora continua en su administradicion y gestion de procesos, mejorando asi su disciplina para un mejor resultado en cada proyecto.
+As well as philosophy of life a continuous improvement in its administration and process management, thus improving its discipline for a better result in each project.
