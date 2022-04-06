@@ -9,7 +9,7 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Hola son Ing. industrial estadístico y me encanta la programación. 
+> Hola soy Ing. industrial estadístico y me encanta la programación. 
 > Me encanta los eventos sociales y estoy a favor del medio ambiente y nuevos avances o tecnologias que ayuden a mejorar el medio ambiente.
 
 
